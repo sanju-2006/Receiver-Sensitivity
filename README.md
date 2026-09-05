@@ -49,6 +49,7 @@ Settings:
 Power meters are placed:
 - At the modulator output  
 - After the attenuator (input to receiver)  
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/7ec49003-2dd3-4358-be49-db0d62d8792c" />
 
 ---
 
@@ -58,6 +59,7 @@ Steps:
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
+<img width="522" height="275" alt="image" src="https://github.com/user-attachments/assets/b2777e59-4084-4c70-9d3b-95e32313d360" />
 
 ---
 
