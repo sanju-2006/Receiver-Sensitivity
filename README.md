@@ -49,7 +49,6 @@ Settings:
 Power meters are placed:
 - At the modulator output  
 - After the attenuator (input to receiver)  
-<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/7ec49003-2dd3-4358-be49-db0d62d8792c" />
 
 ---
 
