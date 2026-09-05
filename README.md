@@ -4,6 +4,7 @@
 ## Objective
 Determine the sensitivity of a PIN photodiode-based optical receiver by calculating the minimum received power necessary to achieve a given Q factor. Compare simulation results with those obtained analytically.
 
+
 ---
 
 ## Theory
